@@ -9,3 +9,5 @@ Further details of the proposed perceptual assessments and the decoder based sim
 “Low complexity sub-block perceptual distortion assessment for mode decision and rate-control”
 
 [http://dx.doi.org/10.1109/BMSB.2015.7177262](http://dx.doi.org/10.1109/BMSB.2015.7177262)
+
+[![DOI](https://zenodo.org/badge/77138580.svg)](https://zenodo.org/badge/latestdoi/77138580)
