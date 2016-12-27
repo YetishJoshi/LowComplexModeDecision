@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Low complexity mode decision and rate-control perceptual assessment
+-----
 
-You can use the [editor on GitHub](https://github.com/YetishJoshi/LowComplexModeDecision/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The HEVC code base has been modified to allow the proposed perceptual distortion and activity assessment is applied to all candidates during mode-decision and rate-control respectively.
+In addition, the decoder has been modified to allow simulation to model existing and the proposed assessments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Further details of the proposed perceptual assessments and the decoder based simulator are discussed within the paper:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YetishJoshi/LowComplexModeDecision/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“Low complexity sub-block perceptual distortion assessment for mode decision and rate-control”
+[http://dx.doi.org/10.1109/BMSB.2015.7177262](http://dx.doi.org/10.1109/BMSB.2015.7177262)
