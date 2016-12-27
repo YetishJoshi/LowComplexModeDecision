@@ -1,7 +1,7 @@
 # Low complexity mode decision and rate-control perceptual assessment
 -----
 
-The HEVC code base has been modified to allow the proposed perceptual distortion and activity assessment is applied to all candidates during mode-decision and rate-control respectively.
+This contains a modified HEVC codebase to allow the proposed perceptual distortion and activity assessment is applied to all candidates during mode-decision and rate-control respectively.
 In addition, the decoder has been modified to allow simulation to model existing and the proposed assessments.
 
 Further details of the proposed perceptual assessments and the decoder based simulator are discussed within the paper:
